@@ -1,0 +1,14 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Author:        Wang Chao <yueyoum@gmail.com>
+Filename:      run.py
+Date created:  2015-02-20 21:20:48
+Description:
+
+"""
+
+from islands.command import run
+
+run()
+
